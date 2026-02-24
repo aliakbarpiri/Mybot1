@@ -5,7 +5,7 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, Callb
 from telegram.error import BadRequest
 
 # ================== تنظیمات اصلی (حتماً پر شود) ==================
-TOKEN = "8719139878:AAELuQ2HpjFPOXjKIsPNkoCwD_-BMZE05-0" 
+TOKEN = "8674062021:AAG5oBS5gRvGeQzJdh_L0EyWeosRkuB34lw" 
 CHANNEL_ID = "@Luffy_sh_op"       # آیدی کانال شما
 GROUP_ID = -1003499181273          # آیدی عددی گروه (با -100 شروع شود)
 GROUP_LINK = "https://t.me/Gap_Luffy_Shop" # لینک واقعی گروه شما
