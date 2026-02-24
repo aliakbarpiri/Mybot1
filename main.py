@@ -15,7 +15,7 @@ GROUP_ID = -1003499181273
 GROUP_LINK = "https://t.me/Gap_Luffy_Shop"
 
 # تنظیمات کلاینت گوگل
-API_KEY = "AIzaSyAkApiuYA1pODx4X6DrHstId-hibZSc92A"
+API_KEY = "AIzaSyD6bv4GKl-bnj8cjsnwD26kKOQJMmnATCQ"
 client = genai.Client(api_key=API_KEY)
 # ====================================================
 
